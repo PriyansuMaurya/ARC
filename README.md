@@ -50,9 +50,9 @@ When you are ready to start work on an issue:
 
 > **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [code of conduct](/CODE_OF_CONDUCT.md).
 
-## Contribute Easily with Gitpod | Codespace 🚀
+## Contribute Easily with Gitpod | Codespace | Codeanywhere 🚀
 
-If you want to contribute to this project, you can use **Gitpod** or **Codespace** to create an online development environment in seconds. No need to install anything on your local machine. Just click the button below, and you will have everything you need to start coding.
+If you want to contribute to this project, you can use **Gitpod** or **Codespace** or **Codeanywhere** to create an online development environment in seconds. No need to install anything on your local machine. Just click the button below, and you will have everything you need to start coding.
 
 <table>
   <tr>
@@ -66,8 +66,14 @@ If you want to contribute to this project, you can use **Gitpod** or **Codespace
         <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" style="max-width: 100%;">
       </a>
     </td>
+     <td align="center" valign="middle">
+      <a href="https://app.codeanywhere.com/#https://github.com//PriyansuMaurya/AI-Fusion" target="_blank">
+        <img src="https://codeanywhere.com/img/open-in-codeanywhere-btn.svg" alt="Open in GitHub Codespaces" style="max-width: 100%;">
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 Enjoy the simplicity and ease of contributing with cloud-based code editors! Learn more about them [here](https://www.freecodecamp.org/news/github-codespaces-vs-gitpod-cloud-based-dev-environments/).
